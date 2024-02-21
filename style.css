@@ -1,0 +1,17 @@
+
+.body{ 
+background-color: #4ed0dd;
+}
+.images1{
+text-align: center;
+text-transform: capitalize;
+}
+.cafe1{
+    width: 20%;
+    height: 20%;
+}
+.cafe2{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+}
